@@ -38,3 +38,8 @@ Utilidades para desarrolladores
   * [fsociety](https://github.com/Manisso/fsociety) A Penetration Testing Framework.
   * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) A collection of awesome lists for hackers, pentesters & security researchers.
   * [nullsecuritynet](https://github.com/nullsecuritynet/tools) Featured security and hacking tools.
+
+## Descarga de libros
+
+  * [libgen](http://libgen.io/) Search engine for articles and books
+  * [ebiblioteca](http://ebiblioteca.org/?/novedades/) Bilbioteca digital de libros en español
