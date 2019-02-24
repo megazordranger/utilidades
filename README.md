@@ -9,6 +9,7 @@ Utilidades para desarrolladores
    * [Miscelaneos](#miscelaneos)
    * [Cupones para udemy](#cupones-para-udemy)
    * [Hacking](#hacking)
+   * [Descarga de libros](#descarga-de-libros)
 
 
 ## Comunidades
