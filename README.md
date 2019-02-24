@@ -38,6 +38,6 @@ Utilidades para desarrolladores
 
 ## Miscelaneos
 
-  * [free-for-dev](https://github.com/ripienaar/free-for-dev) list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+  * [free-for-dev](https://github.com/ripienaar/free-for-dev) List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
   * [professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers.
   * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs.
