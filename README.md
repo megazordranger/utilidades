@@ -27,9 +27,9 @@ Utilidades para desarrolladores
 
 ## Recursos
 
-  * [github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-  * [github.com/charlax/professional-programming](https://github.com/charlax/professional-programming)
-  * [github.com/styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide)
+  * [github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+  * [github.com/charlax/professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers.
+  * [github.com/styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs.
 
 ## Hacking
 
