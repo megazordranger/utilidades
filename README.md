@@ -34,6 +34,6 @@ Utilidades para desarrolladores
 
 ## Hacking
 
-  * [github.com/Manisso/fsociety](https://github.com/Manisso/fsociety)
-  * [github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
-  * [github.com/nullsecuritynet/tools](https://github.com/nullsecuritynet/tools)
+  * [fsociety](https://github.com/Manisso/fsociety) A Penetration Testing Framework.
+  * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) A collection of awesome lists for hackers, pentesters & security researchers.
+  * [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) Featured security and hacking tools.
