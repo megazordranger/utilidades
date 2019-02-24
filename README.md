@@ -1,7 +1,7 @@
 # Utilidades
 Utilidades para desarrolladores
 
-Table of Contents
+Índice
 =================
 
    * [Cursos](#cursos)
