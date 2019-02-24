@@ -13,8 +13,8 @@ Utilidades para desarrolladores
 
 ## Comunidades
  
-  * [github.com/OpenVE/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram)
-  * [thedevs.network](https://thedevs.network/)
+  * [OpenVE](https://github.com/OpenVE/comunidades-en-telegram) Comunidades tecnológicas de Venezuela en telegram
+  * [thedevs](https://thedevs.network/) Developers community on Telegram
 
 ## Diagramas UML
 
@@ -29,7 +29,7 @@ Utilidades para desarrolladores
 
 ## Cupones para udemy
 
-  * [yofreesamples.com](https://yofreesamples.com/courses/free-discounted-udemy-courses-list/)
+  * [yofreesamples.com](https://yofreesamples.com/courses/free-discounted-udemy-courses-list/) FREE Udemy Courses List
   * [UdemyGratis](https://t.me/UdemyGratis) Canal de telegram
 
 ## Hacking
