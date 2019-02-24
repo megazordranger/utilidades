@@ -29,6 +29,7 @@ Utilidades para desarrolladores
 
   * [github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
   * [github.com/charlax/professional-programming](https://github.com/charlax/professional-programming)
+  * [github.com/styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide)
 
 ## Hacking
 
