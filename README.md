@@ -9,6 +9,7 @@ Utilidades para desarrolladores
    * [Comunidades](#comunidades)
    * [Hacking](#hacking)
    * [Diagramas UML](#diagramas-uml)
+   * [Miscelaneos](#miscelaneos)
 
 
 ## Cursos
@@ -25,12 +26,6 @@ Utilidades para desarrolladores
   * [github.com/OpenVE/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram)
   * [thedevs.network](https://thedevs.network/)
 
-## Recursos
-
-  * [github.com/ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-  * [github.com/charlax/professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers.
-  * [github.com/styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs.
-
 ## Hacking
 
   * [github.com/Manisso/fsociety](https://github.com/Manisso/fsociety)
@@ -40,3 +35,9 @@ Utilidades para desarrolladores
 ## Diagramas UML
 
   * [draw.io](https://www.draw.io/)
+
+## Miscelaneos
+
+  * [free-for-dev](https://github.com/ripienaar/free-for-dev) list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+  * [professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers.
+  * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs.
