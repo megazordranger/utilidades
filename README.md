@@ -18,7 +18,7 @@ Utilidades para desarrolladores
 
 ## Diagramas UML
 
-  * [draw.io](https://www.draw.io/)
+  * [awesome-diagrams](https://github.com/robbie-cao/awesome-diagrams) A curated list of diagram tools for programmers.
 
 ## Miscelaneos
 
@@ -26,6 +26,7 @@ Utilidades para desarrolladores
   * [professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers.
   * [awesome-courses](https://github.com/fffaraz/awesome-courses) List of free online programming/CS courses
   * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs.
+  * [awesome](https://github.com/sindresorhus/awesome) Tools collection for developers.
 
 ## Cupones para udemy
 
