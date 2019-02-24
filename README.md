@@ -30,10 +30,10 @@ Utilidades para desarrolladores
 ## Cupones para udemy
 
   * [yofreesamples.com](https://yofreesamples.com/courses/free-discounted-udemy-courses-list/)
-  * [t.me/UdemyGratis](https://t.me/UdemyGratis) Canal de telegram
+  * [UdemyGratis](https://t.me/UdemyGratis) Canal de telegram
 
 ## Hacking
 
   * [fsociety](https://github.com/Manisso/fsociety) A Penetration Testing Framework.
   * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) A collection of awesome lists for hackers, pentesters & security researchers.
-  * [nullsecuritynet/tools](https://github.com/nullsecuritynet/tools) Featured security and hacking tools.
+  * [nullsecuritynet](https://github.com/nullsecuritynet/tools) Featured security and hacking tools.
