@@ -4,23 +4,13 @@ Utilidades para desarrolladores
 Índice
 =================
 
-   * [Cursos](#cursos)
-   * [Cupones para udemy](#cupones-para-udemy)
    * [Comunidades](#comunidades)
    * [Hacking](#hacking)
    * [Diagramas UML](#diagramas-uml)
    * [Miscelaneos](#miscelaneos)
+   * [Cupones para udemy](#cupones-para-udemy)
 
 
-## Cursos
-
-  * [udemy.com](https://www.udemy.com/)
-
-## Cupones para udemy
-
-  * [yofreesamples.com](https://yofreesamples.com/courses/free-discounted-udemy-courses-list/)
-  * [t.me/UdemyGratis](https://t.me/UdemyGratis) Canal de telegram
- 
 ## Comunidades
  
   * [github.com/OpenVE/comunidades-en-telegram](https://github.com/OpenVE/comunidades-en-telegram)
@@ -40,4 +30,10 @@ Utilidades para desarrolladores
 
   * [free-for-dev](https://github.com/ripienaar/free-for-dev) List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
   * [professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers.
+  * [awesome-courses](https://github.com/fffaraz/awesome-courses) List of free online programming/CS courses
   * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs.
+
+## Cupones para udemy
+
+  * [yofreesamples.com](https://yofreesamples.com/courses/free-discounted-udemy-courses-list/)
+  * [t.me/UdemyGratis](https://t.me/UdemyGratis) Canal de telegram
