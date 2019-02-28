@@ -23,6 +23,7 @@ Utilidades para desarrolladores
 
 ## Miscelaneos
 
+  * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops.
   * [free-for-dev](https://github.com/ripienaar/free-for-dev) List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
   * [professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers.
   * [awesome-courses](https://github.com/fffaraz/awesome-courses) List of free online programming/CS courses
