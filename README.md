@@ -7,7 +7,7 @@ Utilidades para desarrolladores
    * [Comunidades](#comunidades)
    * [Diagramas UML](#diagramas-uml)
    * [Miscelaneos](#miscelaneos)
-   * [Cupones para udemy](#cupones-para-udemy)
+   * [Udemy](#udemy)
    * [Hacking](#hacking)
    * [Descarga de libros](#descarga-de-libros)
    * [Dominios](#dominios)
@@ -30,10 +30,11 @@ Utilidades para desarrolladores
   * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs.
   * [awesome](https://github.com/sindresorhus/awesome) Tools collection for developers.
 
-## Cupones para udemy
+## Udemy
 
   * [yofreesamples.com](https://yofreesamples.com/courses/free-discounted-udemy-courses-list/) FREE Udemy Courses List
   * [UdemyGratis](https://t.me/UdemyGratis) Canal de telegram
+  * [Udeler](https://electronjs.org/apps/udeler) A cross platform application for downloading Udemy Courses
 
 ## Hacking
 
