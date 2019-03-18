@@ -54,6 +54,10 @@ Utilidades para desarrolladores
   * [freenom](https://www.freenom.com) Free domain provider
   * [nameboy](https://www.nameboy.com/) Domain name generator
 
-## Resumen Curricular
+## Resumen curricular
 
   * [visualcv](https://www.visualcv.com/) Online CV Builder & Professional Resume Maker
+
+## Captura de pantalla
+
+  * [Lightshot](https://app.prntscr.com) screenshot tool for Mac & Win
