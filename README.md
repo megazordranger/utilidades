@@ -50,7 +50,7 @@ Utilidades para desarrolladores
 ## Dominios
 
   * [domains.google](https://domains.google.com/m/registrar/search) Domain search engine
-  * [freenom.com](https://www.freenom.com) Free domain provider
+  * [freenom](https://www.freenom.com) Free domain provider
   * [nameboy](https://www.nameboy.com/) Domain name generator
 
 ## Resumen Curricular
