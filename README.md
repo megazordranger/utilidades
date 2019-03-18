@@ -6,7 +6,7 @@ Utilidades para desarrolladores
 
    * [Comunidades](#comunidades)
    * [Diagramas UML](#diagramas-uml)
-   * [Misceláneos](#miscelaneos)
+   * [Misceláneos](#misceláneos)
    * [Udemy](#udemy)
    * [Hacking](#hacking)
    * [Descarga de libros](#descarga-de-libros)
