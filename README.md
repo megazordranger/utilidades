@@ -6,7 +6,7 @@ Utilidades para desarrolladores
 
    * [Comunidades](#comunidades)
    * [Diagramas UML](#diagramas-uml)
-   * [Miscelaneos](#miscelaneos)
+   * [Misceláneos](#miscelaneos)
    * [Udemy](#udemy)
    * [Hacking](#hacking)
    * [Descarga de libros](#descarga-de-libros)
@@ -22,7 +22,7 @@ Utilidades para desarrolladores
 
   * [awesome-diagrams](https://github.com/robbie-cao/awesome-diagrams) A curated list of diagram tools for programmers
 
-## Miscelaneos
+## Misceláneos
 
   * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a Web Developer in 2019
   * [free-for-dev](https://github.com/ripienaar/free-for-dev) List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
