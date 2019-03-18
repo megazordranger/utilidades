@@ -19,16 +19,16 @@ Utilidades para desarrolladores
 
 ## Diagramas UML
 
-  * [awesome-diagrams](https://github.com/robbie-cao/awesome-diagrams) A curated list of diagram tools for programmers.
+  * [awesome-diagrams](https://github.com/robbie-cao/awesome-diagrams) A curated list of diagram tools for programmers
 
 ## Miscelaneos
 
-  * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a Web Developer in 2019.
-  * [free-for-dev](https://github.com/ripienaar/free-for-dev) List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
-  * [professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers.
+  * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a Web Developer in 2019
+  * [free-for-dev](https://github.com/ripienaar/free-for-dev) List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
+  * [professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers
   * [awesome-courses](https://github.com/fffaraz/awesome-courses) List of free online programming/CS courses
-  * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs.
-  * [awesome](https://github.com/sindresorhus/awesome) Tools collection for developers.
+  * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs
+  * [awesome](https://github.com/sindresorhus/awesome) Tools collection for developers
 
 ## Udemy
 
@@ -38,9 +38,9 @@ Utilidades para desarrolladores
 
 ## Hacking
 
-  * [fsociety](https://github.com/Manisso/fsociety) A Penetration Testing Framework.
-  * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) A collection of awesome lists for hackers, pentesters & security researchers.
-  * [nullsecuritynet](https://github.com/nullsecuritynet/tools) Featured security and hacking tools.
+  * [fsociety](https://github.com/Manisso/fsociety) A Penetration Testing Framework
+  * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) A collection of awesome lists for hackers, pentesters & security researchers
+  * [nullsecuritynet](https://github.com/nullsecuritynet/tools) Featured security and hacking tools
 
 ## Descarga de libros
 
@@ -49,5 +49,10 @@ Utilidades para desarrolladores
   
 ## Dominios
 
-  * [domains.google](https://domains.google.com/m/registrar/search) Domain search engine.
-  * [freenom.com](https://www.freenom.com) Free domain provider.
+  * [domains.google](https://domains.google.com/m/registrar/search) Domain search engine
+  * [freenom.com](https://www.freenom.com) Free domain provider
+  * [nameboy](https://www.nameboy.com/) Domain name generator
+
+## Resumen Curricular
+
+  * [visualcv](https://www.visualcv.com/) Online CV Builder & Professional Resume Maker
