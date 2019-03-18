@@ -11,7 +11,8 @@ Utilidades para desarrolladores
    * [Hacking](#hacking)
    * [Descarga de libros](#descarga-de-libros)
    * [Dominios](#dominios)
-   * [Resumen Curricular](#resumen-curricular)
+   * [Resumen curricular](#resumen-curricular)
+   * [Captura de pantalla](#captura-de-pantalla)
 
 ## Comunidades
  
