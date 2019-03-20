@@ -13,6 +13,7 @@ Utilidades para desarrolladores
    * [Dominios](#dominios)
    * [Resumen curricular](#resumen-curricular)
    * [Captura de pantalla](#captura-de-pantalla)
+   * [Presentación de diapositivas](#presentación-de-diapositivas)
 
 ## Comunidades
  
@@ -62,3 +63,8 @@ Utilidades para desarrolladores
 ## Captura de pantalla
 
   * [Lightshot](https://app.prntscr.com) screenshot tool for Mac & Win
+
+## Presentación de diapositivas
+
+  * [awesome-slideshows](https://github.com/slideshow-s9/awesome-slideshows) A collection of awesome slide show / presentation / talk goodies (tools, templates, articles, etc.)
+  * [awesome-slides](https://github.com/robbie-cao/awesome-slides) A curated list of slides tools.
