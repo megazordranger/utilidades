@@ -23,6 +23,7 @@ Utilidades para desarrolladores
 ## Diagramas UML
 
   * [awesome-diagrams](https://github.com/robbie-cao/awesome-diagrams) A curated list of diagram tools for programmers
+  * [creately](https://creately.com) Online diagramming tool
 
 ## Misceláneos
 
@@ -62,7 +63,7 @@ Utilidades para desarrolladores
 
 ## Captura de pantalla
 
-  * [Lightshot](https://app.prntscr.com) screenshot tool for Mac & Win
+  * [Lightshot](https://app.prntscr.com) Screenshot tool for Mac & Win
 
 ## Presentación de diapositivas
 
