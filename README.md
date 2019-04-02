@@ -33,6 +33,7 @@ Utilidades para desarrolladores
   * [awesome-courses](https://github.com/fffaraz/awesome-courses) List of free online programming/CS courses
   * [awesome-online-ide](https://github.com/styfle/awesome-online-ide) A curated list of awesome online implementations of IDEs
   * [awesome](https://github.com/sindresorhus/awesome) Tools collection for developers
+  * [hastebin](https://hastebin.com/) Sharing code tool
 
 ## Udemy
 
