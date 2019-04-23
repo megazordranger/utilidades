@@ -14,6 +14,7 @@ Utilidades para desarrolladores
    * [Resumen curricular](#resumen-curricular)
    * [Captura de pantalla](#captura-de-pantalla)
    * [Presentación de diapositivas](#presentación-de-diapositivas)
+   * [Imágenes de marcador de posición](#imágenes-de-marcador-de-posición) 
 
 ## Comunidades
  
@@ -70,3 +71,9 @@ Utilidades para desarrolladores
 
   * [awesome-slideshows](https://github.com/slideshow-s9/awesome-slideshows) A collection of awesome slide show / presentation / talk goodies (tools, templates, articles, etc.)
   * [awesome-slides](https://github.com/robbie-cao/awesome-slides) A curated list of slides tools.
+  
+## Imágenes de marcador de posición
+  
+  * [loremipsum.io](https://loremipsum.io/es/21-of-the-best-placeholder-image-generators/) Generadores de Imagen de Marcador de Posición
+  * [upwork.com](https://www.upwork.com/hiring/design/45-completely-free-photo-resources/) 45 Completely Free Photo Resources for Designers
+  * [holderjs.com](http://holderjs.com/) Holder renders image placeholders entirely in browser
