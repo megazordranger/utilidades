@@ -25,6 +25,7 @@ Utilidades para desarrolladores
 
   * [awesome-diagrams](https://github.com/robbie-cao/awesome-diagrams) A curated list of diagram tools for programmers
   * [creately](https://creately.com) Online diagramming tool
+  * [dbdiagram.io](https://dbdiagram.io/) A free, simple tool to draw ER diagrams by just writing code.
 
 ## Misceláneos
 
