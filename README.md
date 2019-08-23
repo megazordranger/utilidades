@@ -52,7 +52,7 @@ Utilidades para desarrolladores
 
 ## Descarga de libros
 
-  * [libgen](http://libgen.io/) Search engine for articles and books
+  * [libgen](https://libgen.is/) Search engine for articles and books
   * [ebiblioteca](http://ebiblioteca.org/?/novedades/) Bilbioteca digital de libros en español
   
 ## Dominios
